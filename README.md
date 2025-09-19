@@ -1,5 +1,5 @@
 # SortVisualizer
-Sorting Visualizer is a React-based web app that visually demonstrates sorting algorithms like Bubble Sort, Merge Sort, and Quick Sort. Users get a interactive learning experience. 
+Sorting Visualizer is a web app that visually demonstrates sorting algorithms like Bubble Sort, Merge Sort, and Quick Sort. Users get a interactive learning experience. 
 
 
 <img width="1920" height="1080" alt="sortvisualizer1" src="https://github.com/user-attachments/assets/b5d29e9d-c322-4199-bd9c-3763519cc916" />
